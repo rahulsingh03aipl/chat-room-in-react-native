@@ -1,3 +1,6 @@
+// Chats component 
+
+
 import React from 'react';
 import {Text,View,ScrollView,Button,FlatList} from 'react-native'
 import firebase from 'firebase';
@@ -33,3 +36,4 @@ class Chats extends React.Component{
 }
 
 export default Chats;
+
